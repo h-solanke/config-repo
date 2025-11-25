@@ -1,0 +1,2 @@
+global:
+  message: "Hello from GLOBAL config"
