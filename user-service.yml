@@ -1,0 +1,7 @@
+user:
+  message: "Hello from USER service (from config repo)"
+server:
+  port: 8081
+spring:
+  application:
+    name: user-service
