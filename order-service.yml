@@ -1,0 +1,7 @@
+order:
+  message: "Hello from ORDER service (from config repo)"
+server:
+  port: 8082
+spring:
+  application:
+    name: order-service
